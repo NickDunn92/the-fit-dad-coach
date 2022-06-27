@@ -1,10 +1,19 @@
 html, body {
-  background-color: #2c2a2a;
+  background-color: #2c2a2a !important;
 }
 
 img {
   height: 500px;
   width: 800px;
+}
+
+label {
+  color: white;
+}
+
+.header2 {
+  color: white;
+  text-align: center;
 }
 
 .container {
