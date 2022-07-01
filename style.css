@@ -55,7 +55,13 @@ label {
   grid-row: 3;
 }
 
+.stupt {
+  width: auto;
+  height: 45%;
+}
+
 .stupt2 {
   width: 600px;
   height: 600px;
 }
+
