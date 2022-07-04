@@ -44,6 +44,14 @@ label {
   color: white;
 }
 
+.homepagetext2 {
+  grid-column: 3;
+  grid-row: 2;
+  font-style: italic;
+  color: white;
+  margin-right: 30px;
+}
+
 .homepageimage {
   grid-column: 2 / 4;
   grid-row: 2;
