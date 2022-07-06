@@ -63,6 +63,19 @@ label {
   height: 45%;
 }
 
+.aboutusheader {
+  grid-column: 1 / 4;
+  grid-row: 1;
+  text-align: center;
+  color: white;
+  background-color: #2c2a2a;
+}
+
+.aboutusimage {
+  grid-column: 1;
+  grid-row: 2;
+}
+
 .consultationheader {
   grid-column: 1 / 4;
   grid-row: 1;
