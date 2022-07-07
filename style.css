@@ -2,7 +2,7 @@ html, body {
   background-color: #2c2a2a !important;
 }
 
-/* Temporary for image on about, gallery and testimonials page */
+/* Temporary for image on gallery and testimonials page */
 img { 
   height: 300px;
   width: 300px;
@@ -63,7 +63,7 @@ label {
   height: 45%;
 }
 
-.aboutusheader {
+.aboutheader {
   grid-column: 1 / 4;
   grid-row: 1;
   text-align: center;
@@ -71,9 +71,20 @@ label {
   background-color: #2c2a2a;
 }
 
-.aboutusimage {
+.aboutimage {
   grid-column: 1;
   grid-row: 2;
+}
+
+.studunnabout {
+  height: 500px;
+  width: 550px;
+}
+
+.abouttext {
+  grid-column: 3;
+  grid-row: 2;
+  color: white;
 }
 
 .consultationheader {
