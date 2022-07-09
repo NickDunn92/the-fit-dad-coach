@@ -78,13 +78,37 @@ label {
 
 .studunnabout {
   height: 500px;
-  width: 550px;
+  width: 600px;
 }
 
 .abouttext {
   grid-column: 3;
   grid-row: 2;
   color: white;
+}
+
+.galleryheader {
+  grid-column: 1 / 4;
+  grid-row: 1;
+  text-align: center;
+  color: white;
+  background-color: #2c2a2a;
+}
+
+.galleryheader {
+  grid-column: 1 / 4;
+  grid-row: 1;
+  text-align: center;
+  color: white;
+  background-color: #2c2a2a;
+}
+
+.testimonialsheader {
+  grid-column: 1 / 4;
+  grid-row: 1;
+  text-align: center;
+  color: white;
+  background-color: #2c2a2a;
 }
 
 .consultationheader {
