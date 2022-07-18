@@ -12,12 +12,9 @@ label {
   color: white;
 }
 
-h1 {
-  font-size: xxx-large;
-}
-
-h2 {
-  font-size: xx-large;
+.stupt {
+  height: auto;
+  width: 70%;
 }
 
 .text-sm {
@@ -30,21 +27,6 @@ h2 {
   grid-template-rows: 1fr;
   background-color: #2c2a2a;
   gap: 20px;
-}
-
-.grid-cols-3 {
-  grid-template-columns: repeat(3, minmax(0, 1fr));
-  grid-template-rows: repeat(2, minmax(0, 1fr));
-}
-
-.col-start-2 {
-  text-align: center;
-  color: white;
-}
-
-.col-start-1 {
-  text-align: center;
-  color: white;
 }
 
 .aboutheader {
